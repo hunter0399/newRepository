@@ -18,12 +18,11 @@ _It_
 _**IB**
 
 
-'git pull 을 하시면 됩니다.
+'git pull' 을 하시면 됩니다.
 
 * Heelo
-
-  *hello
-  *hello
+  * hello
+  * hello
     *Hell
     
 1. Hello
@@ -32,3 +31,15 @@ _**IB**
   1.Hello
   1.Hello
     1.Hello
+    
+    
+> 힘들때 운는 자가 일류다
+
+***
+
+
+...
+public static void main(String[] args) {
+    System.out.pringln("Hello");
+}
+...
