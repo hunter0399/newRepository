@@ -5,7 +5,7 @@
 
 ## Head3
 
-[link][http://www.naver.com]
+[http://www.naver.com]
 
 
 
